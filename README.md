@@ -1,2 +1,2 @@
-# DMED_practice
+# DEMD_practice
 Data engineering and Model deployment
