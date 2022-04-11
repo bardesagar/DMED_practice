@@ -1,3 +1,1 @@
-first line in the txt file
-feature 2
-
+First line in the txt file
