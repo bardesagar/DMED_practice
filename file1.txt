@@ -1,2 +1,3 @@
 first line in the txt file
-This is updated in feature1 branch, should not be seen in main branch
+feature 2
+
